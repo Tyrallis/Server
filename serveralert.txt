@@ -1,5 +1,0 @@
-SERVERALERT:
-<html><body>
-<h2 align="center">Development Phase</h2>
-<p>The open alpha has ended. The server is not currently playable while we make the changes required to make this project a success. You can follow our progress on <a href="https://discord.gg/Sag44ar">Discord</a>.<br/><br/></p>
-</body></html>
